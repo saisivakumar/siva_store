@@ -1,12 +1,8 @@
 
 
-object Helloworld {
+object Strfuns {
 
-  def main(args: Array[String]) {
-    println("Hello, World!")
-  }
-
-  // Variable declaration
+    // Variable declaration
   var a: Int = 100
   val c: Int = 555
   var str1: String = "sivakumar"
